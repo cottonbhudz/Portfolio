@@ -1,9 +1,7 @@
 """
-File:    file_system.py
 Author:  Vir Chuy Darm
 Date:    December 9, 2022
-Section: Section 50
-E-mail:  vchuyda1@umbc.edu
+E-mail:  vjchuydarm@gmail.com
 Description: This program runs a simple shell server, and contains functions related to ones found in a gl server.
 """
 
