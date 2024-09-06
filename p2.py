@@ -1,7 +1,7 @@
 """
 Author: Vir Chuy Darm
 Date: 11/18/2022
-Description:  This code evalutes data dictionaries, uses a variety of functions to differentiate and evalutate.
+Description:  This code evalutes data dictionaries, uses a variety of functions to differentiate and evaluate. sample data: data["Ince, Ryan"] = ['09:45:00, 11/2/2022', '09:45:00, 11/4/2022']
 """
 
 # Comment the line below out if your have the load_dictionary function working!!
