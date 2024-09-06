@@ -1,6 +1,6 @@
 """
 Author:  Vir Chuy Darm
-Date:    December 9, 2022
+Date:    December, 2022
 E-mail:  vjchuydarm@gmail.com
 Description: This program runs a simple shell server, and contains functions related to ones found in a gl server.
 """
