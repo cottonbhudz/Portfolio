@@ -1,6 +1,6 @@
 """
 Author: Vir Chuy Darm
-Date: 11/18/2022
+Date: November 2022
 Description:  This code evalutes data dictionaries, uses a variety of functions to differentiate and evaluate. sample data: data["Ince, Ryan"] = ['09:45:00, 11/2/2022', '09:45:00, 11/4/2022']
 """
 
